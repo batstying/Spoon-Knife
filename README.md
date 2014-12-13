@@ -1,9 +1,9 @@
 ### Well hello there!
 
-*111
-*222
-*333
-*444
+* 111
+* 222
+* 333
+* 444
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
